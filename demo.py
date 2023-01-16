@@ -1,4 +1,4 @@
 print("hello world")
 print("This is remote server")
-print("this is line 3")
+print("This is Merge Conflict Local")
 print("this is line 4")
